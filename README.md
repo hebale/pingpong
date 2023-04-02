@@ -1,3 +1,3 @@
 # Pingpong
 
-test
+multi pingpong game
